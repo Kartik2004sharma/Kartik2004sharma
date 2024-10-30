@@ -22,7 +22,8 @@
   <img alt="CSS" src="https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white" />
   <img alt="SQL" src="https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=MySQL&logoColor=white" />
   <img alt="Computer Networking" src="https://img.shields.io/badge/-Networking-0A66C2?style=flat-square&logo=Cisco&logoColor=white" />
-  <img alt="Operating Systems" src="https://img.shields.io/badge/-Operating%20Systems-0078D6?style=flat-square&logo=Windows&logoColor=white" />
+  <img alt="Linux" src="https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=Linux&logoColor=black" />
+
   
 </p>
 <h3>Open source projects</h3>
